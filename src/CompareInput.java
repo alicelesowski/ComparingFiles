@@ -1,3 +1,12 @@
+/*
+* Alicé Lesowski
+* ComparingFiles
+* HW 3
+* This program takes 2 input files and compares them line by line.
+* Then it prints the differences in the files to an output file
+* or prints they are the same if there are no differences.
+*/
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
